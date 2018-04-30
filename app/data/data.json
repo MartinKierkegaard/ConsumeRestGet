@@ -1,0 +1,22 @@
+{
+  "teachers": [
+    {
+      "Id": 1,
+      "MobileNo": 123,
+      "Name": "Martin",
+      "Salary": null
+    },
+    {
+      "Id": 2,
+      "MobileNo": 127,
+      "Name": "Vibeke",
+      "Salary": null
+    },
+    {
+      "Id": 3,
+      "MobileNo": 122,
+      "Name": "Anders",
+      "Salary": null
+    }
+  ]
+}
